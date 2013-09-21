@@ -1,23 +1,19 @@
 //
-//  FirstViewController.m
+//  ThirdViewController.m
 //  ReadingNoteByWeibo
 //
 //  Created by Huang Yuqing on 9/16/13.
 //  Copyright (c) 2013 YQ. All rights reserved.
 //
 
-#import "FirstViewController.h"
-#import "BookHandler.h"
+#import "ThirdViewController.h"
 
-@implementation FirstViewController {
-    NSArray *books;
-}
+@implementation ThirdViewController
 
 - (void)viewDidLoad
 {
     [super viewDidLoad];
-	// Do any additional setup after loading the view, typically from a nib.
-    books = [BookHandler getBooks];
+	// Do any additional setup after loading the view.
 }
 
 - (void)didReceiveMemoryWarning
