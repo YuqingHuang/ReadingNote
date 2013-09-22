@@ -42,3 +42,9 @@
 #define COCOAPODS_VERSION_MINOR_AFNetworking_Serialization 0
 #define COCOAPODS_VERSION_PATCH_AFNetworking_Serialization 0
 
+// OCMapper
+#define COCOAPODS_POD_AVAILABLE_OCMapper
+#define COCOAPODS_VERSION_MAJOR_OCMapper 1
+#define COCOAPODS_VERSION_MINOR_OCMapper 0
+#define COCOAPODS_VERSION_PATCH_OCMapper 1
+

@@ -1,2 +1,2 @@
-pod 'AFNetworking',
-pod 'ObjectMapper'
+pod 'AFNetworking'
+pod 'OCMapper'
